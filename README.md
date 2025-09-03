@@ -1,6 +1,6 @@
 # Pipeline Analytics Dashboard
 
-Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
+Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.   
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
