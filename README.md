@@ -1,7 +1,7 @@
 # Pipeline Analytics Dashboard
 
 Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
-> *“O dado conta a história; o desenho só abre caminho.”*
+> *“O dado conta a história; o desenho só abre caminho.”* 💙
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
@@ -62,22 +62,27 @@ O repositório inclui `data/sample_pipeline.csv` para testes locais.
 3. Ajuste medidas (conversion rate/cycle time) se mudar nomes de colunas.  
 4. Clique em **Refresh** e publique (se desejar).
 
----
-### 🤝 Contribuições
 
-Pull requests são bem-vindos. Prefira PRs pequenos, com descrição do antes/depois e evidências visuais (print do painel).
----
+## Methodology
+- **Conversão por etapa:** saídas/entradas por janela.
+- **Cycle time:** média e quantis (P50/P90) de `entered_at` → `exited_at`.
+- **Bandas móveis:** controle de variação para alertas contextuais.
+- **Reprodutibilidade:** funções em `src/` para cada métrica e gráfico.
 
-### 🔐 Privacidade
+## Contributing
+🤝 Contribuições são bem-vindas. Prefira PRs pequenos, com:
+- descrição do antes/depois,
+- prints do painel,
+- e nota sobre dados usados (sintéticos/anonimizados).
 
-Use apenas dados sintéticos ou anonimizados. Se for conectar fontes reais, mantenha segredos via variáveis de ambiente (.env) e não commite credenciais.
----
-###📜 Licença
+## Privacy
+🔐 Use apenas dados sintéticos ou anonimizados. Se for conectar fontes reais, mantenha segredos via variáveis de ambiente (.env) e não commite credenciais.
 
-MIT — ver LICENSE. Use, melhore e compartilhe com crédito.
-
-Feito com ciência, carinho e um pouco de caos domado.
+## License
+ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) pra mais detalhes.Feito com ciência, carinho e um pouco de caos domado. ✨
 @IsabelCasPe – 2025 • Portfólio: github.com/IsabelCasPe
+
+
 
 ### B) Python / Streamlit
 ```bash
