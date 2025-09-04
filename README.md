@@ -83,6 +83,16 @@ O repositório inclui `data/sample_pipeline.csv` para testes locais.
 @IsabelCasPe – 2025 • Portfólio: github.com/IsabelCasPe
 
 
+# Pipeline Analytics Dashboard
+Um dashboard interativo feito com Streamlit pra mostrar performance e domar o caos! 😎 @caradocaos, tenta bagunçar isso aqui!
+
+## Como rodar
+1. Clone o repo: `git clone https://github.com/IsabelCasPe/Pipeline-analytics-dashboard`
+2. Instale as dependências: `pip install -r requirements.txt`
+3. Rode o app: `streamlit run dashboard.py`
+4. Abra no navegador e clique em "Domar o Caos"! ✨
+
+Feito com ciência, carinho e #CaosDomado! 💎
 
 ### B) Python / Streamlit
 ```bash
