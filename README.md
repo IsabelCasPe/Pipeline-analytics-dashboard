@@ -94,6 +94,9 @@ Um dashboard interativo feito com Streamlit pra mostrar performance e domar o ca
 
 Feito com ciência, carinho e #CaosDomado! 💎
 
+## Sobre
+Desenvolvido por Ana Isabel Castillo Pereda. Veja mais em [isabelcaspe.github.io](https://isabelcaspe.github.io).
+
 ### B) Python / Streamlit
 ```bash
 # Requisitos: Python 3.10+
