@@ -3,6 +3,8 @@
 Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.   
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
 
+[![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard)
