@@ -7,7 +7,7 @@ Um painel **enxuto e claro** para acompanhar o funil comercial - *stages*, conve
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 [![JAES](https://img.shields.io/badge/JAES-Published-0B6E4F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used) 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard) 
 
 ---
