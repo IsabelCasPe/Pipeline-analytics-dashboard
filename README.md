@@ -12,6 +12,11 @@ Um painel **enxuto e claro** para acompanhar o funil comercial - *stages*, conve
 
 ---
 
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-IsabelCasPe_Maths_∞-C0C0C0?logo=youtube&logoColor=black)](https://www.youtube.com/@isabelcastillo4230)
+
+---
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
